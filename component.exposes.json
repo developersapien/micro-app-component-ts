@@ -1,6 +1,0 @@
-{
-  "exposeName": "example",
-  "exposes": {
-    "./ExampleIndex": "./src/components/Example"
-  }
-}
